@@ -35,3 +35,5 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+5_classification_linear_knn/data/porto/train.csv
+5_classification_linear_knn/data/porto/test.csv
